@@ -13,12 +13,7 @@ export function SiteHeader() {
           <Link to="/my-reservations" className="hover:text-stone-900">
             My reservations
           </Link>
-          <Link to="/owner/login" className="hover:text-stone-900">
-            Restaurant login
-          </Link>
-          <Link to="/admin/login" className="hover:text-stone-900">
-            Admin
-          </Link>
+          
         </nav>
       </div>
     </header>
